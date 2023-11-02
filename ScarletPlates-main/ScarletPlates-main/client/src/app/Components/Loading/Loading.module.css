@@ -1,0 +1,8 @@
+.loading_container {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    background: linear-gradient(180deg, #C70039 0%, rgb(56, 8, 8) 100%);
+}

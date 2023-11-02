@@ -1,0 +1,45 @@
+.nav_container {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 1rem;
+    color: black;
+ 
+}
+
+.menu_container {
+    width: 50vw;
+    height: 100vh;
+    position: absolute;
+    right: 0;
+    top: 0;
+    background-color: #F78CA2;
+    display: grid;
+    place-items:center;
+    position: fixed;
+}
+.menu_box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap:2rem;
+}
+
+
+.title h3 {
+    font-size: 2rem;
+}
+
+.bars {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 1rem 1rem 0rem 0rem 
+}
+@media screen and (width <= 900px) {
+    .menu_container {
+        width: 100vw;
+    }
+}
+
