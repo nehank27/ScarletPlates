@@ -1,1 +1,2 @@
-# ScarletPlates
+# ScarletPlates 
+• ScarletPlates integrates Python-based web scraping techniques and JavaScript-driven queries to deliver an intuitive and dynamic search tool for Rutgers' dining hall menus. It provides detailed nutritional information for every food item served on a specific day at a campus selected by the user. This innovation empowers students with valuable knowledge about their daily food intake, assisting them in achieving their dietary goals effectively and sustainably!
